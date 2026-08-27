@@ -1,0 +1,25 @@
+format,commodity,scale,series_length,alpha,r_squared,n_windows
+X (qty per shekel) -- matches paper,BARLEY,monthly,282,0.7754964365868052,0.943247680337898,20
+X (qty per shekel) -- matches paper,BARLEY,annual,132,0.6026675394435047,0.9410688971838176,18
+X (qty per shekel) -- matches paper,DATES,monthly,254,0.7905513261069024,0.9824318890624173,20
+X (qty per shekel) -- matches paper,DATES,annual,131,0.6622531379674352,0.9078508149712406,18
+X (qty per shekel) -- matches paper,MUSTARD,monthly,182,1.0780685458258528,0.9147497921541622,20
+X (qty per shekel) -- matches paper,MUSTARD,annual,104,0.7163293097956076,0.8126373301022793,15
+X (qty per shekel) -- matches paper,CRESS,monthly,195,0.8993842676211175,0.9504829614060731,20
+X (qty per shekel) -- matches paper,CRESS,annual,105,0.5121866148882409,0.818490825807494,15
+X (qty per shekel) -- matches paper,SESAME,monthly,220,0.8874485269492021,0.9881788545392703,20
+X (qty per shekel) -- matches paper,SESAME,annual,110,0.616206145473096,0.8439046768886471,16
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,188,1.1400172233059989,0.9421596668599255,20
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,104,0.7563256132123063,0.8211206663630819,15
+1/X (shekel per unit),BARLEY,monthly,282,0.8876370546275657,0.9712354112834503,20
+1/X (shekel per unit),BARLEY,annual,132,0.9361332142479798,0.9161012271965617,18
+1/X (shekel per unit),DATES,monthly,254,1.2464200483012198,0.9699297216776719,20
+1/X (shekel per unit),DATES,annual,131,0.9343298478633724,0.8846846253273158,18
+1/X (shekel per unit),MUSTARD,monthly,182,0.9413738967728772,0.956648835807948,20
+1/X (shekel per unit),MUSTARD,annual,104,0.7168133659756455,0.8341599943761251,15
+1/X (shekel per unit),CRESS,monthly,195,0.9182589323849901,0.9593990885942311,20
+1/X (shekel per unit),CRESS,annual,105,0.34966953793899436,0.6277316386707625,15
+1/X (shekel per unit),SESAME,monthly,220,1.0378431304881919,0.9729493913859047,20
+1/X (shekel per unit),SESAME,annual,110,0.7650476497846334,0.8788553647861519,16
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,188,1.1021437969775998,0.9770715654905289,20
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,104,1.0212261069417177,0.9576887659002327,15

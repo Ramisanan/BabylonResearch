@@ -1,0 +1,435 @@
+format,commodity,scale,n,F
+X (qty per shekel) -- matches paper,BARLEY,monthly,12.0,42.911923355701155
+X (qty per shekel) -- matches paper,BARLEY,monthly,13.0,48.81492337134785
+X (qty per shekel) -- matches paper,BARLEY,monthly,14.0,48.366717233976765
+X (qty per shekel) -- matches paper,BARLEY,monthly,16.0,61.07319614024314
+X (qty per shekel) -- matches paper,BARLEY,monthly,17.0,72.98251493452544
+X (qty per shekel) -- matches paper,BARLEY,monthly,19.0,68.25794893574755
+X (qty per shekel) -- matches paper,BARLEY,monthly,21.0,83.29323822548703
+X (qty per shekel) -- matches paper,BARLEY,monthly,23.0,91.91506097338845
+X (qty per shekel) -- matches paper,BARLEY,monthly,25.0,99.68832754551008
+X (qty per shekel) -- matches paper,BARLEY,monthly,28.0,112.03322657967053
+X (qty per shekel) -- matches paper,BARLEY,monthly,30.0,106.09282710137346
+X (qty per shekel) -- matches paper,BARLEY,monthly,33.0,130.2747628368208
+X (qty per shekel) -- matches paper,BARLEY,monthly,37.0,128.83159519167415
+X (qty per shekel) -- matches paper,BARLEY,monthly,40.0,126.94510745422517
+X (qty per shekel) -- matches paper,BARLEY,monthly,44.0,144.60290310018866
+X (qty per shekel) -- matches paper,BARLEY,monthly,48.0,153.43190945276555
+X (qty per shekel) -- matches paper,BARLEY,monthly,53.0,150.9648547852507
+X (qty per shekel) -- matches paper,BARLEY,monthly,58.0,159.16558750589678
+X (qty per shekel) -- matches paper,BARLEY,monthly,64.0,165.07219122492418
+X (qty per shekel) -- matches paper,BARLEY,monthly,70.0,165.42081070838907
+X (qty per shekel) -- matches paper,BARLEY,annual,12.0,54.71255283996032
+X (qty per shekel) -- matches paper,BARLEY,annual,13.0,54.377997254425495
+X (qty per shekel) -- matches paper,BARLEY,annual,14.0,67.85021798684124
+X (qty per shekel) -- matches paper,BARLEY,annual,15.0,68.64065147108501
+X (qty per shekel) -- matches paper,BARLEY,annual,16.0,66.80704251668112
+X (qty per shekel) -- matches paper,BARLEY,annual,17.0,70.21280496502945
+X (qty per shekel) -- matches paper,BARLEY,annual,18.0,74.45323443395625
+X (qty per shekel) -- matches paper,BARLEY,annual,19.0,77.21401921988773
+X (qty per shekel) -- matches paper,BARLEY,annual,20.0,85.31142069869438
+X (qty per shekel) -- matches paper,BARLEY,annual,22.0,80.04186343827601
+X (qty per shekel) -- matches paper,BARLEY,annual,23.0,87.4713782761066
+X (qty per shekel) -- matches paper,BARLEY,annual,24.0,90.67550365340398
+X (qty per shekel) -- matches paper,BARLEY,annual,25.0,86.8227572910181
+X (qty per shekel) -- matches paper,BARLEY,annual,27.0,93.00409211926588
+X (qty per shekel) -- matches paper,BARLEY,annual,28.0,93.32118513945844
+X (qty per shekel) -- matches paper,BARLEY,annual,30.0,98.7643029008236
+X (qty per shekel) -- matches paper,BARLEY,annual,31.0,103.338205883007
+X (qty per shekel) -- matches paper,BARLEY,annual,33.0,99.87943241751894
+X (qty per shekel) -- matches paper,DATES,monthly,12.0,60.02227065940923
+X (qty per shekel) -- matches paper,DATES,monthly,13.0,60.98092948644155
+X (qty per shekel) -- matches paper,DATES,monthly,14.0,73.13216103609207
+X (qty per shekel) -- matches paper,DATES,monthly,16.0,81.11355243079744
+X (qty per shekel) -- matches paper,DATES,monthly,17.0,74.82380592226151
+X (qty per shekel) -- matches paper,DATES,monthly,19.0,94.31790272536394
+X (qty per shekel) -- matches paper,DATES,monthly,20.0,91.75333511297501
+X (qty per shekel) -- matches paper,DATES,monthly,22.0,105.4687432433041
+X (qty per shekel) -- matches paper,DATES,monthly,24.0,97.2974576901617
+X (qty per shekel) -- matches paper,DATES,monthly,26.0,117.81435004313796
+X (qty per shekel) -- matches paper,DATES,monthly,29.0,129.3148707873288
+X (qty per shekel) -- matches paper,DATES,monthly,31.0,136.47993588488578
+X (qty per shekel) -- matches paper,DATES,monthly,34.0,154.2459485014729
+X (qty per shekel) -- matches paper,DATES,monthly,37.0,151.0111586369352
+X (qty per shekel) -- matches paper,DATES,monthly,41.0,166.63647157747496
+X (qty per shekel) -- matches paper,DATES,monthly,44.0,168.67346518146337
+X (qty per shekel) -- matches paper,DATES,monthly,48.0,191.62930926313763
+X (qty per shekel) -- matches paper,DATES,monthly,53.0,186.57602944455428
+X (qty per shekel) -- matches paper,DATES,monthly,58.0,215.00543871054612
+X (qty per shekel) -- matches paper,DATES,monthly,63.0,216.8297429850772
+X (qty per shekel) -- matches paper,DATES,annual,12.0,66.65950125757865
+X (qty per shekel) -- matches paper,DATES,annual,13.0,67.44150369259506
+X (qty per shekel) -- matches paper,DATES,annual,14.0,78.22307411040521
+X (qty per shekel) -- matches paper,DATES,annual,15.0,84.28512263262974
+X (qty per shekel) -- matches paper,DATES,annual,16.0,84.58559799334782
+X (qty per shekel) -- matches paper,DATES,annual,17.0,84.63952306856018
+X (qty per shekel) -- matches paper,DATES,annual,18.0,96.34192442832048
+X (qty per shekel) -- matches paper,DATES,annual,19.0,97.09317639577861
+X (qty per shekel) -- matches paper,DATES,annual,20.0,100.91347421558879
+X (qty per shekel) -- matches paper,DATES,annual,21.0,111.11115467453185
+X (qty per shekel) -- matches paper,DATES,annual,22.0,112.3392294041707
+X (qty per shekel) -- matches paper,DATES,annual,23.0,114.14232880355121
+X (qty per shekel) -- matches paper,DATES,annual,25.0,116.26390508024431
+X (qty per shekel) -- matches paper,DATES,annual,26.0,124.35763502108256
+X (qty per shekel) -- matches paper,DATES,annual,27.0,128.44875179945961
+X (qty per shekel) -- matches paper,DATES,annual,29.0,115.02820562380512
+X (qty per shekel) -- matches paper,DATES,annual,30.0,119.24963074188365
+X (qty per shekel) -- matches paper,DATES,annual,32.0,120.94786710664384
+X (qty per shekel) -- matches paper,MUSTARD,monthly,12.0,91.74509475067143
+X (qty per shekel) -- matches paper,MUSTARD,monthly,13.0,107.53832781378496
+X (qty per shekel) -- matches paper,MUSTARD,monthly,14.0,104.53999188094838
+X (qty per shekel) -- matches paper,MUSTARD,monthly,15.0,127.39999894157613
+X (qty per shekel) -- matches paper,MUSTARD,monthly,16.0,140.3880226624086
+X (qty per shekel) -- matches paper,MUSTARD,monthly,17.0,143.52352095352646
+X (qty per shekel) -- matches paper,MUSTARD,monthly,18.0,179.89450061468673
+X (qty per shekel) -- matches paper,MUSTARD,monthly,20.0,222.71465062580143
+X (qty per shekel) -- matches paper,MUSTARD,monthly,21.0,192.70542729452922
+X (qty per shekel) -- matches paper,MUSTARD,monthly,22.0,237.88307751434942
+X (qty per shekel) -- matches paper,MUSTARD,monthly,24.0,260.05036045350494
+X (qty per shekel) -- matches paper,MUSTARD,monthly,26.0,315.2032817942291
+X (qty per shekel) -- matches paper,MUSTARD,monthly,28.0,288.3599063224226
+X (qty per shekel) -- matches paper,MUSTARD,monthly,30.0,333.417912545187
+X (qty per shekel) -- matches paper,MUSTARD,monthly,32.0,310.57723658380297
+X (qty per shekel) -- matches paper,MUSTARD,monthly,34.0,312.2727494098627
+X (qty per shekel) -- matches paper,MUSTARD,monthly,37.0,324.1829902197855
+X (qty per shekel) -- matches paper,MUSTARD,monthly,39.0,343.21229997087335
+X (qty per shekel) -- matches paper,MUSTARD,monthly,42.0,323.40161809605735
+X (qty per shekel) -- matches paper,MUSTARD,monthly,45.0,394.51201700976407
+X (qty per shekel) -- matches paper,MUSTARD,annual,12.0,111.63649865287661
+X (qty per shekel) -- matches paper,MUSTARD,annual,13.0,151.89458966752025
+X (qty per shekel) -- matches paper,MUSTARD,annual,14.0,160.03826994489637
+X (qty per shekel) -- matches paper,MUSTARD,annual,15.0,157.44058710522077
+X (qty per shekel) -- matches paper,MUSTARD,annual,16.0,173.679961146728
+X (qty per shekel) -- matches paper,MUSTARD,annual,17.0,202.87882911235556
+X (qty per shekel) -- matches paper,MUSTARD,annual,18.0,197.22738104091317
+X (qty per shekel) -- matches paper,MUSTARD,annual,19.0,184.1242615498926
+X (qty per shekel) -- matches paper,MUSTARD,annual,20.0,206.6569511539111
+X (qty per shekel) -- matches paper,MUSTARD,annual,21.0,196.82884097210757
+X (qty per shekel) -- matches paper,MUSTARD,annual,22.0,208.51295497762032
+X (qty per shekel) -- matches paper,MUSTARD,annual,23.0,200.41575123824114
+X (qty per shekel) -- matches paper,MUSTARD,annual,24.0,200.64151098764154
+X (qty per shekel) -- matches paper,MUSTARD,annual,25.0,238.83671846713875
+X (qty per shekel) -- matches paper,MUSTARD,annual,26.0,237.4559680186596
+X (qty per shekel) -- matches paper,CRESS,monthly,12.0,15.408060669978866
+X (qty per shekel) -- matches paper,CRESS,monthly,13.0,17.71257151884474
+X (qty per shekel) -- matches paper,CRESS,monthly,14.0,20.436172197667727
+X (qty per shekel) -- matches paper,CRESS,monthly,15.0,20.54864363448059
+X (qty per shekel) -- matches paper,CRESS,monthly,16.0,24.413550840576804
+X (qty per shekel) -- matches paper,CRESS,monthly,17.0,25.258687854886666
+X (qty per shekel) -- matches paper,CRESS,monthly,19.0,29.516931458858664
+X (qty per shekel) -- matches paper,CRESS,monthly,20.0,30.75936835621743
+X (qty per shekel) -- matches paper,CRESS,monthly,22.0,33.65545122682692
+X (qty per shekel) -- matches paper,CRESS,monthly,23.0,33.86452651742281
+X (qty per shekel) -- matches paper,CRESS,monthly,25.0,39.18283713626594
+X (qty per shekel) -- matches paper,CRESS,monthly,27.0,43.281754339081324
+X (qty per shekel) -- matches paper,CRESS,monthly,29.0,45.39301328900715
+X (qty per shekel) -- matches paper,CRESS,monthly,31.0,42.54046922829669
+X (qty per shekel) -- matches paper,CRESS,monthly,33.0,45.33027180024341
+X (qty per shekel) -- matches paper,CRESS,monthly,36.0,48.372621665809476
+X (qty per shekel) -- matches paper,CRESS,monthly,39.0,52.081720010608635
+X (qty per shekel) -- matches paper,CRESS,monthly,41.0,53.56628720842198
+X (qty per shekel) -- matches paper,CRESS,monthly,45.0,52.70592828989779
+X (qty per shekel) -- matches paper,CRESS,monthly,48.0,53.816420132988924
+X (qty per shekel) -- matches paper,CRESS,annual,12.0,18.408271857876937
+X (qty per shekel) -- matches paper,CRESS,annual,13.0,23.28877052522441
+X (qty per shekel) -- matches paper,CRESS,annual,14.0,22.44734726324138
+X (qty per shekel) -- matches paper,CRESS,annual,15.0,24.07948762407027
+X (qty per shekel) -- matches paper,CRESS,annual,16.0,25.714414109574804
+X (qty per shekel) -- matches paper,CRESS,annual,17.0,23.671737962745233
+X (qty per shekel) -- matches paper,CRESS,annual,18.0,24.70902503843633
+X (qty per shekel) -- matches paper,CRESS,annual,19.0,24.794401698399106
+X (qty per shekel) -- matches paper,CRESS,annual,20.0,27.73231187158595
+X (qty per shekel) -- matches paper,CRESS,annual,21.0,30.278179304681192
+X (qty per shekel) -- matches paper,CRESS,annual,22.0,29.342645083041585
+X (qty per shekel) -- matches paper,CRESS,annual,23.0,29.493581611122764
+X (qty per shekel) -- matches paper,CRESS,annual,24.0,27.818912696581084
+X (qty per shekel) -- matches paper,CRESS,annual,25.0,29.57447303144236
+X (qty per shekel) -- matches paper,CRESS,annual,26.0,29.639671788149368
+X (qty per shekel) -- matches paper,SESAME,monthly,12.0,7.421775080860557
+X (qty per shekel) -- matches paper,SESAME,monthly,13.0,7.741175199701895
+X (qty per shekel) -- matches paper,SESAME,monthly,14.0,8.143690328048674
+X (qty per shekel) -- matches paper,SESAME,monthly,15.0,8.5932875684239
+X (qty per shekel) -- matches paper,SESAME,monthly,17.0,9.526921341300262
+X (qty per shekel) -- matches paper,SESAME,monthly,18.0,9.739177075713773
+X (qty per shekel) -- matches paper,SESAME,monthly,19.0,11.342373978449906
+X (qty per shekel) -- matches paper,SESAME,monthly,21.0,12.067891421033394
+X (qty per shekel) -- matches paper,SESAME,monthly,23.0,13.199729548518611
+X (qty per shekel) -- matches paper,SESAME,monthly,25.0,13.787392453560493
+X (qty per shekel) -- matches paper,SESAME,monthly,27.0,14.98872383067135
+X (qty per shekel) -- matches paper,SESAME,monthly,29.0,16.179903995275374
+X (qty per shekel) -- matches paper,SESAME,monthly,31.0,15.185750617466864
+X (qty per shekel) -- matches paper,SESAME,monthly,34.0,16.96532203040041
+X (qty per shekel) -- matches paper,SESAME,monthly,37.0,21.376463221886112
+X (qty per shekel) -- matches paper,SESAME,monthly,40.0,19.993759589475005
+X (qty per shekel) -- matches paper,SESAME,monthly,43.0,22.2088240281558
+X (qty per shekel) -- matches paper,SESAME,monthly,47.0,25.904833124451866
+X (qty per shekel) -- matches paper,SESAME,monthly,51.0,26.283709075224305
+X (qty per shekel) -- matches paper,SESAME,monthly,55.0,26.683053530045058
+X (qty per shekel) -- matches paper,SESAME,annual,12.0,7.432286031619298
+X (qty per shekel) -- matches paper,SESAME,annual,13.0,8.596727504344829
+X (qty per shekel) -- matches paper,SESAME,annual,14.0,8.5968656395304
+X (qty per shekel) -- matches paper,SESAME,annual,15.0,9.03930528441693
+X (qty per shekel) -- matches paper,SESAME,annual,16.0,9.548242465324716
+X (qty per shekel) -- matches paper,SESAME,annual,17.0,10.239370314428756
+X (qty per shekel) -- matches paper,SESAME,annual,18.0,8.756542443272458
+X (qty per shekel) -- matches paper,SESAME,annual,19.0,9.503685821519486
+X (qty per shekel) -- matches paper,SESAME,annual,20.0,10.985810931071766
+X (qty per shekel) -- matches paper,SESAME,annual,21.0,11.59447051008775
+X (qty per shekel) -- matches paper,SESAME,annual,22.0,11.544720869115304
+X (qty per shekel) -- matches paper,SESAME,annual,23.0,12.247082130076205
+X (qty per shekel) -- matches paper,SESAME,annual,24.0,11.303939979504822
+X (qty per shekel) -- matches paper,SESAME,annual,25.0,10.938529934319414
+X (qty per shekel) -- matches paper,SESAME,annual,26.0,12.20437030247766
+X (qty per shekel) -- matches paper,SESAME,annual,27.0,14.294177586692737
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,12.0,0.600665770464838
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,13.0,0.7170796847347702
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,14.0,0.7101389291912071
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,15.0,0.770648409344788
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,16.0,0.8858501942153522
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,17.0,1.1617001647232703
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,18.0,1.1081967716849859
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,20.0,1.495638589471211
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,21.0,1.3826033322578706
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,23.0,1.6945319160390235
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,25.0,1.7729196182890798
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,26.0,1.8883023492287112
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,28.0,1.755970726186008
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,31.0,2.2343260259510345
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,33.0,2.0417587508426913
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,35.0,1.9735551852573796
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,38.0,2.1190541933885987
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,41.0,2.5071413210020226
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,44.0,2.8082811505990093
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,monthly,47.0,3.46282187867507
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,12.0,0.9647817984295142
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,13.0,1.197075509264764
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,14.0,1.214168205721813
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,15.0,1.223454728189377
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,16.0,1.1475192898491662
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,17.0,1.3292365203780223
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,18.0,1.2831769581026278
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,19.0,1.2562074809007178
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,20.0,1.6360527094807196
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,21.0,1.422374091446699
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,22.0,1.461605783209466
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,23.0,1.5336085766734664
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,24.0,1.6605892109319347
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,25.0,1.9496351381786576
+X (qty per shekel) -- matches paper,WOOL 0.5 kg p. Shekel,annual,26.0,2.0532996452210734
+1/X (shekel per unit),BARLEY,monthly,12.0,0.013208595955021114
+1/X (shekel per unit),BARLEY,monthly,13.0,0.01330241942728816
+1/X (shekel per unit),BARLEY,monthly,14.0,0.016251487777467984
+1/X (shekel per unit),BARLEY,monthly,16.0,0.01826195363461205
+1/X (shekel per unit),BARLEY,monthly,17.0,0.020931889899720946
+1/X (shekel per unit),BARLEY,monthly,19.0,0.01830368042271089
+1/X (shekel per unit),BARLEY,monthly,21.0,0.023639236268039977
+1/X (shekel per unit),BARLEY,monthly,23.0,0.02775122424486947
+1/X (shekel per unit),BARLEY,monthly,25.0,0.029977594876410933
+1/X (shekel per unit),BARLEY,monthly,28.0,0.031581569167372155
+1/X (shekel per unit),BARLEY,monthly,30.0,0.029315634405324083
+1/X (shekel per unit),BARLEY,monthly,33.0,0.039507781669798736
+1/X (shekel per unit),BARLEY,monthly,37.0,0.03490349107408568
+1/X (shekel per unit),BARLEY,monthly,40.0,0.03799608206821314
+1/X (shekel per unit),BARLEY,monthly,44.0,0.045705134127503225
+1/X (shekel per unit),BARLEY,monthly,48.0,0.04329077447121967
+1/X (shekel per unit),BARLEY,monthly,53.0,0.051822076778859985
+1/X (shekel per unit),BARLEY,monthly,58.0,0.05116326174048249
+1/X (shekel per unit),BARLEY,monthly,64.0,0.06294620141129095
+1/X (shekel per unit),BARLEY,monthly,70.0,0.07000059750193953
+1/X (shekel per unit),BARLEY,annual,12.0,0.012941300905061959
+1/X (shekel per unit),BARLEY,annual,13.0,0.01233587819167777
+1/X (shekel per unit),BARLEY,annual,14.0,0.012964179949821809
+1/X (shekel per unit),BARLEY,annual,15.0,0.014019460769894791
+1/X (shekel per unit),BARLEY,annual,16.0,0.014707990483402458
+1/X (shekel per unit),BARLEY,annual,17.0,0.014686105688685462
+1/X (shekel per unit),BARLEY,annual,18.0,0.018575961606880447
+1/X (shekel per unit),BARLEY,annual,19.0,0.01581578483959077
+1/X (shekel per unit),BARLEY,annual,20.0,0.017874722256459422
+1/X (shekel per unit),BARLEY,annual,22.0,0.01866282463888626
+1/X (shekel per unit),BARLEY,annual,23.0,0.01798292857671627
+1/X (shekel per unit),BARLEY,annual,24.0,0.022298068240226836
+1/X (shekel per unit),BARLEY,annual,25.0,0.024717168393817962
+1/X (shekel per unit),BARLEY,annual,27.0,0.021754472709985595
+1/X (shekel per unit),BARLEY,annual,28.0,0.02261097704771404
+1/X (shekel per unit),BARLEY,annual,30.0,0.029680254104868305
+1/X (shekel per unit),BARLEY,annual,31.0,0.029777732771379267
+1/X (shekel per unit),BARLEY,annual,33.0,0.032713061016219645
+1/X (shekel per unit),DATES,monthly,12.0,0.0043969102794157965
+1/X (shekel per unit),DATES,monthly,13.0,0.004337486252826925
+1/X (shekel per unit),DATES,monthly,14.0,0.006467363825923444
+1/X (shekel per unit),DATES,monthly,16.0,0.006902441807388602
+1/X (shekel per unit),DATES,monthly,17.0,0.007279587167089248
+1/X (shekel per unit),DATES,monthly,19.0,0.008044748374696185
+1/X (shekel per unit),DATES,monthly,20.0,0.007796925552735277
+1/X (shekel per unit),DATES,monthly,22.0,0.011261323383842144
+1/X (shekel per unit),DATES,monthly,24.0,0.010353796750814355
+1/X (shekel per unit),DATES,monthly,26.0,0.014066992127407054
+1/X (shekel per unit),DATES,monthly,29.0,0.014798910541041462
+1/X (shekel per unit),DATES,monthly,31.0,0.01465605224668716
+1/X (shekel per unit),DATES,monthly,34.0,0.020879468783824816
+1/X (shekel per unit),DATES,monthly,37.0,0.017783784903341475
+1/X (shekel per unit),DATES,monthly,41.0,0.02259983086529367
+1/X (shekel per unit),DATES,monthly,44.0,0.01963052901076052
+1/X (shekel per unit),DATES,monthly,48.0,0.02873384703990424
+1/X (shekel per unit),DATES,monthly,53.0,0.024468421296295534
+1/X (shekel per unit),DATES,monthly,58.0,0.03241808523350979
+1/X (shekel per unit),DATES,monthly,63.0,0.0393712234549897
+1/X (shekel per unit),DATES,annual,12.0,0.006860576456392924
+1/X (shekel per unit),DATES,annual,13.0,0.007239855794407238
+1/X (shekel per unit),DATES,annual,14.0,0.006898781140873718
+1/X (shekel per unit),DATES,annual,15.0,0.008823744820748276
+1/X (shekel per unit),DATES,annual,16.0,0.007731805085420796
+1/X (shekel per unit),DATES,annual,17.0,0.009635742421553524
+1/X (shekel per unit),DATES,annual,18.0,0.008736729351108646
+1/X (shekel per unit),DATES,annual,19.0,0.009216482319980568
+1/X (shekel per unit),DATES,annual,20.0,0.011112205237043938
+1/X (shekel per unit),DATES,annual,21.0,0.011692785981654125
+1/X (shekel per unit),DATES,annual,22.0,0.009330482797089137
+1/X (shekel per unit),DATES,annual,23.0,0.011846168254354963
+1/X (shekel per unit),DATES,annual,25.0,0.014814714195204946
+1/X (shekel per unit),DATES,annual,26.0,0.013369029588944842
+1/X (shekel per unit),DATES,annual,27.0,0.011334715693157912
+1/X (shekel per unit),DATES,annual,29.0,0.014960946298694615
+1/X (shekel per unit),DATES,annual,30.0,0.015367676797355512
+1/X (shekel per unit),DATES,annual,32.0,0.018377392752211917
+1/X (shekel per unit),MUSTARD,monthly,12.0,0.001235042793189886
+1/X (shekel per unit),MUSTARD,monthly,13.0,0.0011744562444118201
+1/X (shekel per unit),MUSTARD,monthly,14.0,0.0012934243858787275
+1/X (shekel per unit),MUSTARD,monthly,15.0,0.0015935577843179819
+1/X (shekel per unit),MUSTARD,monthly,16.0,0.0017195866841647153
+1/X (shekel per unit),MUSTARD,monthly,17.0,0.001707217795131243
+1/X (shekel per unit),MUSTARD,monthly,18.0,0.0018154217676346082
+1/X (shekel per unit),MUSTARD,monthly,20.0,0.0021656267350694007
+1/X (shekel per unit),MUSTARD,monthly,21.0,0.0022497527016492403
+1/X (shekel per unit),MUSTARD,monthly,22.0,0.0022578897212169277
+1/X (shekel per unit),MUSTARD,monthly,24.0,0.0026192423891187237
+1/X (shekel per unit),MUSTARD,monthly,26.0,0.003039898796042704
+1/X (shekel per unit),MUSTARD,monthly,28.0,0.003053412694084482
+1/X (shekel per unit),MUSTARD,monthly,30.0,0.003290816234535337
+1/X (shekel per unit),MUSTARD,monthly,32.0,0.0031609211295698355
+1/X (shekel per unit),MUSTARD,monthly,34.0,0.0034215177050932366
+1/X (shekel per unit),MUSTARD,monthly,37.0,0.0032573181934598076
+1/X (shekel per unit),MUSTARD,monthly,39.0,0.003556951238318006
+1/X (shekel per unit),MUSTARD,monthly,42.0,0.0036110373578010246
+1/X (shekel per unit),MUSTARD,monthly,45.0,0.004161523535054432
+1/X (shekel per unit),MUSTARD,annual,12.0,0.0016783981064672443
+1/X (shekel per unit),MUSTARD,annual,13.0,0.001784172429140027
+1/X (shekel per unit),MUSTARD,annual,14.0,0.00198992372800106
+1/X (shekel per unit),MUSTARD,annual,15.0,0.0016771678798643273
+1/X (shekel per unit),MUSTARD,annual,16.0,0.0022851365943693494
+1/X (shekel per unit),MUSTARD,annual,17.0,0.002413534585299329
+1/X (shekel per unit),MUSTARD,annual,18.0,0.0023659473833789377
+1/X (shekel per unit),MUSTARD,annual,19.0,0.0023540485835375833
+1/X (shekel per unit),MUSTARD,annual,20.0,0.002744019188008794
+1/X (shekel per unit),MUSTARD,annual,21.0,0.002282292348173908
+1/X (shekel per unit),MUSTARD,annual,22.0,0.0024771657957649465
+1/X (shekel per unit),MUSTARD,annual,23.0,0.0026026145736410943
+1/X (shekel per unit),MUSTARD,annual,24.0,0.002711206456246381
+1/X (shekel per unit),MUSTARD,annual,25.0,0.003038521115435382
+1/X (shekel per unit),MUSTARD,annual,26.0,0.003008726613117847
+1/X (shekel per unit),CRESS,monthly,12.0,0.017503927534108923
+1/X (shekel per unit),CRESS,monthly,13.0,0.018700078739564113
+1/X (shekel per unit),CRESS,monthly,14.0,0.020227752485477712
+1/X (shekel per unit),CRESS,monthly,15.0,0.021255919438606528
+1/X (shekel per unit),CRESS,monthly,16.0,0.028022268571802213
+1/X (shekel per unit),CRESS,monthly,17.0,0.028901358867110916
+1/X (shekel per unit),CRESS,monthly,19.0,0.03164341638075757
+1/X (shekel per unit),CRESS,monthly,20.0,0.03202651411518428
+1/X (shekel per unit),CRESS,monthly,22.0,0.03487747554568089
+1/X (shekel per unit),CRESS,monthly,23.0,0.03806554912466245
+1/X (shekel per unit),CRESS,monthly,25.0,0.04073818262990393
+1/X (shekel per unit),CRESS,monthly,27.0,0.04414637611713749
+1/X (shekel per unit),CRESS,monthly,29.0,0.04405468105412974
+1/X (shekel per unit),CRESS,monthly,31.0,0.04456470577851559
+1/X (shekel per unit),CRESS,monthly,33.0,0.048543497538629694
+1/X (shekel per unit),CRESS,monthly,36.0,0.05135003129688856
+1/X (shekel per unit),CRESS,monthly,39.0,0.0631277579619976
+1/X (shekel per unit),CRESS,monthly,41.0,0.05598805624608973
+1/X (shekel per unit),CRESS,monthly,45.0,0.058390754773161774
+1/X (shekel per unit),CRESS,monthly,48.0,0.06210554553377888
+1/X (shekel per unit),CRESS,annual,12.0,0.01877831098893305
+1/X (shekel per unit),CRESS,annual,13.0,0.02413472428200215
+1/X (shekel per unit),CRESS,annual,14.0,0.02248098573398189
+1/X (shekel per unit),CRESS,annual,15.0,0.026259602627984956
+1/X (shekel per unit),CRESS,annual,16.0,0.024042250832374792
+1/X (shekel per unit),CRESS,annual,17.0,0.023334860473437604
+1/X (shekel per unit),CRESS,annual,18.0,0.02295274860016016
+1/X (shekel per unit),CRESS,annual,19.0,0.023689461630005012
+1/X (shekel per unit),CRESS,annual,20.0,0.02520760094117068
+1/X (shekel per unit),CRESS,annual,21.0,0.028443290749232172
+1/X (shekel per unit),CRESS,annual,22.0,0.025874038446568447
+1/X (shekel per unit),CRESS,annual,23.0,0.026591582901577544
+1/X (shekel per unit),CRESS,annual,24.0,0.027218693977059262
+1/X (shekel per unit),CRESS,annual,25.0,0.02719897194477185
+1/X (shekel per unit),CRESS,annual,26.0,0.02818576263776639
+1/X (shekel per unit),SESAME,monthly,12.0,0.022422358460606452
+1/X (shekel per unit),SESAME,monthly,13.0,0.028116902208386838
+1/X (shekel per unit),SESAME,monthly,14.0,0.027621261331204888
+1/X (shekel per unit),SESAME,monthly,15.0,0.028509563404698002
+1/X (shekel per unit),SESAME,monthly,17.0,0.02838525148909544
+1/X (shekel per unit),SESAME,monthly,18.0,0.03455338141471286
+1/X (shekel per unit),SESAME,monthly,19.0,0.04348274768042647
+1/X (shekel per unit),SESAME,monthly,21.0,0.05024312026478016
+1/X (shekel per unit),SESAME,monthly,23.0,0.047468688969785164
+1/X (shekel per unit),SESAME,monthly,25.0,0.04894936024919861
+1/X (shekel per unit),SESAME,monthly,27.0,0.05897698420235009
+1/X (shekel per unit),SESAME,monthly,29.0,0.05803728691930809
+1/X (shekel per unit),SESAME,monthly,31.0,0.07172666336244485
+1/X (shekel per unit),SESAME,monthly,34.0,0.07280497276191465
+1/X (shekel per unit),SESAME,monthly,37.0,0.07451897064441898
+1/X (shekel per unit),SESAME,monthly,40.0,0.07827211735695734
+1/X (shekel per unit),SESAME,monthly,43.0,0.09460093738946534
+1/X (shekel per unit),SESAME,monthly,47.0,0.09297503520300653
+1/X (shekel per unit),SESAME,monthly,51.0,0.10155090280367395
+1/X (shekel per unit),SESAME,monthly,55.0,0.11526295645345355
+1/X (shekel per unit),SESAME,annual,12.0,0.02271550024659948
+1/X (shekel per unit),SESAME,annual,13.0,0.02917543718763755
+1/X (shekel per unit),SESAME,annual,14.0,0.024721753608444492
+1/X (shekel per unit),SESAME,annual,15.0,0.029933448016247484
+1/X (shekel per unit),SESAME,annual,16.0,0.02988256936166196
+1/X (shekel per unit),SESAME,annual,17.0,0.03133346266720525
+1/X (shekel per unit),SESAME,annual,18.0,0.031621707581914474
+1/X (shekel per unit),SESAME,annual,19.0,0.030747608912138458
+1/X (shekel per unit),SESAME,annual,20.0,0.03428043962101275
+1/X (shekel per unit),SESAME,annual,21.0,0.03705662139442932
+1/X (shekel per unit),SESAME,annual,22.0,0.03701729209541063
+1/X (shekel per unit),SESAME,annual,23.0,0.03536717688425779
+1/X (shekel per unit),SESAME,annual,24.0,0.038393087234191124
+1/X (shekel per unit),SESAME,annual,25.0,0.0416495501381641
+1/X (shekel per unit),SESAME,annual,26.0,0.043941193820292344
+1/X (shekel per unit),SESAME,annual,27.0,0.051242903679394734
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,12.0,0.14804282156684095
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,13.0,0.18492198332447934
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,14.0,0.1816132350089752
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,15.0,0.19548066878896575
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,16.0,0.21323878202031063
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,17.0,0.2092229193304569
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,18.0,0.23380992119755328
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,20.0,0.29976507310895284
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,21.0,0.26897700570119853
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,23.0,0.31192602835035205
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,25.0,0.33918463293871864
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,26.0,0.38607576139863675
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,28.0,0.36627478052915424
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,31.0,0.43646216262530324
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,33.0,0.43176493734972554
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,35.0,0.45570160295014567
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,38.0,0.48492352699756797
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,41.0,0.5910903827249202
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,44.0,0.6797275440538743
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,monthly,47.0,0.8094290398460534
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,12.0,0.21515385397756728
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,13.0,0.2364292842825653
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,14.0,0.26614772009574456
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,15.0,0.26410064463995275
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,16.0,0.25691147280202203
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,17.0,0.30526857030282456
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,18.0,0.3056843715296686
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,19.0,0.3095444160825541
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,20.0,0.36922183894663047
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,21.0,0.3531654288156734
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,22.0,0.37988607462418644
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,23.0,0.4049600469356751
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,24.0,0.4416759190213477
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,25.0,0.4571595435576831
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,annual,26.0,0.5004603286933937
