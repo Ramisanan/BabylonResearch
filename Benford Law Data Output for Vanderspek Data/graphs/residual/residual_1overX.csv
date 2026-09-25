@@ -1,0 +1,64 @@
+format,commodity,digit,count,observed_pct,expected_pct,residual,interpretation
+1/X (shekel per unit),BARLEY,1,158,0.316,0.3010299956639812,0.014970004336018805,observed more than expected
+1/X (shekel per unit),BARLEY,2,84,0.168,0.1760912590556812,-0.0080912590556812,observed less than expected
+1/X (shekel per unit),BARLEY,3,62,0.124,0.1249387366082999,-0.000938736608299906,good match (~0)
+1/X (shekel per unit),BARLEY,4,37,0.074,0.0969100130080564,-0.02291001300805641,observed less than expected
+1/X (shekel per unit),BARLEY,5,32,0.064,0.0791812460476248,-0.015181246047624802,observed less than expected
+1/X (shekel per unit),BARLEY,6,22,0.044,0.0669467896306132,-0.022946789630613196,observed less than expected
+1/X (shekel per unit),BARLEY,7,26,0.052,0.0579919469776867,-0.0059919469776867,observed less than expected
+1/X (shekel per unit),BARLEY,8,46,0.092,0.0511525224473812,0.0408474775526188,observed more than expected
+1/X (shekel per unit),BARLEY,9,33,0.066,0.0457574905606751,0.0202425094393249,observed more than expected
+1/X (shekel per unit),DATES,1,148,0.3457943925233644,0.3010299956639812,0.044764396859383215,observed more than expected
+1/X (shekel per unit),DATES,2,86,0.2009345794392523,0.1760912590556812,0.024843320383571094,observed more than expected
+1/X (shekel per unit),DATES,3,69,0.161214953271028,0.1249387366082999,0.036276216662728095,observed more than expected
+1/X (shekel per unit),DATES,4,24,0.0560747663551401,0.0969100130080564,-0.0408352466529163,observed less than expected
+1/X (shekel per unit),DATES,5,30,0.0700934579439252,0.0791812460476248,-0.009087788103699604,observed less than expected
+1/X (shekel per unit),DATES,6,27,0.0630841121495327,0.0669467896306132,-0.00386267748108049,good match (~0)
+1/X (shekel per unit),DATES,7,12,0.02803738317757,0.0579919469776867,-0.0299545638001167,observed less than expected
+1/X (shekel per unit),DATES,8,14,0.0327102803738317,0.0511525224473812,-0.018442242073549497,observed less than expected
+1/X (shekel per unit),DATES,9,18,0.0420560747663551,0.0457574905606751,-0.0037014157943199982,good match (~0)
+1/X (shekel per unit),MUSTARD,1,55,0.2777777777777778,0.3010299956639812,-0.023252217886203408,observed less than expected
+1/X (shekel per unit),MUSTARD,2,42,0.2121212121212121,0.1760912590556812,0.03602995306553089,observed more than expected
+1/X (shekel per unit),MUSTARD,3,39,0.1969696969696969,0.1249387366082999,0.072030960361397,observed more than expected
+1/X (shekel per unit),MUSTARD,4,22,0.1111111111111111,0.0969100130080564,0.014201098103054699,observed more than expected
+1/X (shekel per unit),MUSTARD,5,28,0.1414141414141414,0.0791812460476248,0.062232895366516605,observed more than expected
+1/X (shekel per unit),MUSTARD,6,2,0.0101010101010101,0.0669467896306132,-0.0568457795296031,observed less than expected
+1/X (shekel per unit),MUSTARD,7,2,0.0101010101010101,0.0579919469776867,-0.0478909368766766,observed less than expected
+1/X (shekel per unit),MUSTARD,8,4,0.0202020202020202,0.0511525224473812,-0.030950502245361,observed less than expected
+1/X (shekel per unit),MUSTARD,9,4,0.0202020202020202,0.0457574905606751,-0.0255554703586549,observed less than expected
+1/X (shekel per unit),CRESS,1,98,0.4644549763033175,0.3010299956639812,0.1634249806393363,observed more than expected
+1/X (shekel per unit),CRESS,2,33,0.1563981042654028,0.1760912590556812,-0.019693154790278417,observed less than expected
+1/X (shekel per unit),CRESS,3,16,0.0758293838862559,0.1249387366082999,-0.049109352722044,observed less than expected
+1/X (shekel per unit),CRESS,4,28,0.1327014218009478,0.0969100130080564,0.03579140879289139,observed more than expected
+1/X (shekel per unit),CRESS,5,13,0.0616113744075829,0.0791812460476248,-0.017569871640041902,observed less than expected
+1/X (shekel per unit),CRESS,6,8,0.0379146919431279,0.0669467896306132,-0.02903209768748529,observed less than expected
+1/X (shekel per unit),CRESS,7,0,0.0,0.0579919469776867,-0.0579919469776867,observed less than expected
+1/X (shekel per unit),CRESS,8,9,0.0426540284360189,0.0511525224473812,-0.008498494011362302,observed less than expected
+1/X (shekel per unit),CRESS,9,6,0.0284360189573459,0.0457574905606751,-0.0173214716033292,observed less than expected
+1/X (shekel per unit),SESAME,1,79,0.2872727272727273,0.3010299956639812,-0.013757268391253907,observed less than expected
+1/X (shekel per unit),SESAME,2,40,0.1454545454545454,0.1760912590556812,-0.030636713601135818,observed less than expected
+1/X (shekel per unit),SESAME,3,34,0.1236363636363636,0.1249387366082999,-0.0013023729719363053,good match (~0)
+1/X (shekel per unit),SESAME,4,46,0.1672727272727272,0.0969100130080564,0.0703627142646708,observed more than expected
+1/X (shekel per unit),SESAME,5,20,0.0727272727272727,0.0791812460476248,-0.006453973320352108,observed less than expected
+1/X (shekel per unit),SESAME,6,24,0.0872727272727272,0.0669467896306132,0.020325937642114003,observed more than expected
+1/X (shekel per unit),SESAME,7,8,0.029090909090909,0.0579919469776867,-0.028901037886777697,observed less than expected
+1/X (shekel per unit),SESAME,8,16,0.0581818181818181,0.0511525224473812,0.007029295734436898,observed more than expected
+1/X (shekel per unit),SESAME,9,8,0.029090909090909,0.0457574905606751,-0.0166665814697661,observed less than expected
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,1,39,0.2010309278350515,0.3010299956639812,-0.0999990678289297,observed less than expected
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,2,66,0.3402061855670103,0.1760912590556812,0.1641149265113291,observed more than expected
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,3,22,0.1134020618556701,0.1249387366082999,-0.011536674752629802,observed less than expected
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,4,22,0.1134020618556701,0.0969100130080564,0.016492048847613697,observed more than expected
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,5,31,0.1597938144329896,0.0791812460476248,0.08061256838536479,observed more than expected
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,6,13,0.0670103092783505,0.0669467896306132,6.351964773730623e-05,good match (~0)
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,7,0,0.0,0.0579919469776867,-0.0579919469776867,observed less than expected
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,8,1,0.0051546391752577,0.0511525224473812,-0.0459978832721235,observed less than expected
+1/X (shekel per unit),WOOL 0.5 kg p. Shekel,9,0,0.0,0.0457574905606751,-0.0457574905606751,observed less than expected
+1/X (shekel per unit),ALL,1,577,0.3194905869324474,0.3010299956639812,0.01846059126846622,observed more than expected
+1/X (shekel per unit),ALL,2,351,0.1943521594684385,0.1760912590556812,0.018260900412757297,observed more than expected
+1/X (shekel per unit),ALL,3,242,0.1339977851605758,0.1249387366082999,0.009059048552275906,observed more than expected
+1/X (shekel per unit),ALL,4,179,0.0991140642303433,0.0969100130080564,0.0022040512222868958,good match (~0)
+1/X (shekel per unit),ALL,5,154,0.0852713178294573,0.0791812460476248,0.00609007178183249,observed more than expected
+1/X (shekel per unit),ALL,6,96,0.0531561461794019,0.0669467896306132,-0.013790643451211296,observed less than expected
+1/X (shekel per unit),ALL,7,48,0.0265780730897009,0.0579919469776867,-0.0314138738879858,observed less than expected
+1/X (shekel per unit),ALL,8,90,0.0498338870431893,0.0511525224473812,-0.0013186354041919007,good match (~0)
+1/X (shekel per unit),ALL,9,69,0.0382059800664451,0.0457574905606751,-0.0075515104942300015,observed less than expected

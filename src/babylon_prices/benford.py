@@ -82,3 +82,20 @@ def conformity_from_distribution(dist: pd.DataFrame) -> dict:
 def conformity_stats(values: pd.Series) -> dict:
     """Same as conformity_from_distribution(), built directly from raw values."""
     return conformity_from_distribution(digit_distribution(values))
+
+
+def interpret_residual(residual: float, near_zero: float = 0.005) -> str:
+    """Label a residual as a good match, over-representation, or under-representation."""
+    if abs(residual) < near_zero:
+        return "good match (~0)"
+    return "observed more than expected" if residual > 0 else "observed less than expected"
+
+
+def residual_table(dist: pd.DataFrame) -> pd.DataFrame:
+    """Add residual = observed_pct - expected_pct (and its interpretation) to an
+    already-built digit_distribution() table, using the exact observed counts/
+    proportions in that table -- not estimates read off a graph."""
+    out = dist.copy()
+    out["residual"] = out["observed_pct"] - out["expected_pct"]
+    out["interpretation"] = out["residual"].apply(interpret_residual)
+    return out

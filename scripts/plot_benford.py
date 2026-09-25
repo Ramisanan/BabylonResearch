@@ -6,7 +6,11 @@ commodity into a "graphs" subfolder of the output folder.
 
 Usage:
     python scripts/run_benford.py   # first, to (re)generate the CSVs
-    python scripts/plot_benford.py
+    python scripts/plot_benford.py [output_dir]
+
+output_dir defaults to "Benford Law Data Output for Vanderspek Data"; pass
+another Benford output folder (e.g. one produced by run_benford_appendix.py)
+to plot that dataset instead.
 """
 
 import sys
@@ -22,13 +26,17 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 from babylon_prices import conformity_from_distribution
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT_DIR = ROOT / "Benford Law Data Output for Vanderspek Data"
+OUT_DIR = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "Benford Law Data Output for Vanderspek Data"
 GRAPH_DIR = OUT_DIR / "graphs"
 
-FORMATS = [
-    ("benford_X_digit_distribution.csv", "X format (quantity per shekel)"),
-    ("benford_1overX_digit_distribution.csv", "1/X format (shekel per unit)"),
-]
+DIST_CSV_NAMES = ["benford_X_digit_distribution.csv", "benford_1overX_digit_distribution.csv"]
+
+
+def format_labels() -> list[str]:
+    """The two format labels (X, then 1/X), as written into benford_summary.csv
+    by whichever run_benford*.py script produced this output folder."""
+    summary = pd.read_csv(OUT_DIR / "benford_summary.csv")
+    return list(summary["format"].drop_duplicates())
 
 
 def plot_on_axis(ax, dist: pd.DataFrame, title: str):
@@ -47,13 +55,14 @@ def plot_on_axis(ax, dist: pd.DataFrame, title: str):
 def main():
     GRAPH_DIR.mkdir(parents=True, exist_ok=True)
 
-    tables = [pd.read_csv(OUT_DIR / csv_name) for csv_name, _label in FORMATS]
+    tables = [pd.read_csv(OUT_DIR / csv_name) for csv_name in DIST_CSV_NAMES]
+    labels = format_labels()
     commodities = list(tables[0]["commodity"].drop_duplicates())
 
     for commodity in commodities:
         fig, axes = plt.subplots(1, 2, figsize=(12, 5.5))
 
-        for ax, table, (_csv_name, format_label) in zip(axes, tables, FORMATS):
+        for ax, table, format_label in zip(axes, tables, labels):
             dist = table[table["commodity"] == commodity]
             plot_on_axis(ax, dist, format_label)
 

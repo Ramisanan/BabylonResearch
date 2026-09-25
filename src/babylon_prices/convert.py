@@ -15,12 +15,17 @@ COMMODITIES = {
 }
 
 
-def convert_x_to_1_over_x(df: pd.DataFrame) -> pd.DataFrame:
+def convert_x_to_1_over_x(df: pd.DataFrame, commodities: dict = None) -> pd.DataFrame:
     """Return a copy of df with a 1/X (shekel per unit) column added
-    next to each commodity's interpretation column."""
-    df = df.copy()
+    next to each commodity's interpretation column.
 
-    for x_column, unit, new_column in COMMODITIES.values():
+    commodities defaults to COMMODITIES; pass another {commodity: (x_column,
+    unit, new_column)} mapping to reuse this on a workbook with different
+    column names but the same X/1-X structure."""
+    df = df.copy()
+    commodities = COMMODITIES if commodities is None else commodities
+
+    for x_column, unit, new_column in commodities.values():
         # Read the X values (e.g. 27 = 27 liters per shekel) as numbers.
         # Anything that isn't a clean number (blank, "?", etc.) becomes NaN.
         x_values = pd.to_numeric(df[x_column], errors="coerce")

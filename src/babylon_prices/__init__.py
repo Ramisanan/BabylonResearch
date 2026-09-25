@@ -1,6 +1,6 @@
 from .convert import COMMODITIES, convert_x_to_1_over_x
 from .sexagesimal import analyze, is_regular_number, nearest_base60_fraction
-from .benford import digit_distribution, conformity_stats, conformity_from_distribution
+from .benford import digit_distribution, conformity_stats, conformity_from_distribution, residual_table, interpret_residual
 from .structure import summary_stats
 from .zscore import zscore_normalize
 from .stretched_exponential import (
@@ -20,6 +20,8 @@ __all__ = [
     "digit_distribution",
     "conformity_stats",
     "conformity_from_distribution",
+    "residual_table",
+    "interpret_residual",
     "summary_stats",
     "zscore_normalize",
     "empirical_ccdf",
